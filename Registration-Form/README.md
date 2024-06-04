@@ -12,7 +12,7 @@ This project demonstrates a simple user registration system implemented using HT
 
 1. Clone this repository:
     ```bash
-    https://github.com/Kaif0708/Bharat-Intern1.git
+    https://github.com/Kaif0708/Bharat-Intern.git
     ```
 2. Navigate to the project directory:
     ```bash
